@@ -84,8 +84,7 @@ img {
 }
 
 footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
+  color: #DBEDF3;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
 }
